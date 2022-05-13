@@ -1,0 +1,466 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   
+}
+body{
+    margin: 0;
+}
+#sample{
+    width:100%;
+   height:70px;
+    
+    display: flex;
+    margin-left: 10px;
+   
+    margin-right: 10px;
+   
+    
+}
+
+h4{
+    margin-right: 45px;
+    margin-top: 25px;
+    font-size: 14px;
+    font-weight: normal;
+    font-family: sans-serif;
+   
+}
+img{
+    height: 55px;
+    margin-right: 80px;margin-left: 100px;
+}
+#image{
+    width: 100%;
+    height: 520px;
+    background-image: url(images/hp-banner1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+button.click{
+    margin-left: 310px;
+    margin-top: 400px;
+    width: 200px;
+    height: 50px;
+    color: white;
+    background-color: blueviolet;
+}
+.container{
+    width: 100%;
+    height: 370px;
+   
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+}
+.c1,.c2{
+    width: 35%;
+    height: 300px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.c1{
+    display: flex;
+}
+.sub1{
+    width: 50%;
+    height: 100%;
+}
+#heading{
+    margin-left: 20px;
+}
+#para{
+    margin-left: 20px;
+    font-size: 20px;
+}
+img{
+    margin-left: 10px;
+}
+.sub2{
+    width: 50%;
+    height: 100%;
+    background-image : url(images/sample1.svg);
+    background-repeat: no-repeat;
+}
+.c2{
+    display: flex;
+    margin-left: 10px;
+}
+.sub3{
+    width: 50%;
+    height: 100%;
+
+}
+.sub4{
+    width: 50%;
+    height: 100%;
+    background-image: url(images/sample2.svg);
+}
+.container1{
+    width: 100%;
+    height: 640px;
+    display: flex;
+    justify-content: center;
+    
+}
+.block2{
+    width: 40%;
+    height:100% ;
+   
+}
+.block1{
+    width: 32%;
+    height: 100%;
+}
+h1{
+    padding-top: 30px;
+    color: #361374;
+}
+h2{
+    font-size: 22px;
+    
+}
+.insurance{
+    width: 100%;
+    height: 150px;
+    
+    display: flex;
+    justify-content: center;
+}
+#insuranceimage{
+width: 40%;
+height: 100%;
+}
+.phonepelogo{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+}
+.abcd{
+    width: 100%;
+    height: 400px;
+    background-color: aqua;
+}
+.sampleimage{
+    width: 100%;
+    height: 500px;
+    background-image: url(https://www.phonepe.com/webstatic/static/trust-banner-29acd6391200d69ad22567eb1a15a10b.png);
+    background-size: cover;
+    background-repeat: no repeat;
+}
+.overlappingimages{
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+
+}
+.overlap{
+    width: 95%;
+    height: 100%;
+    margin-left: 30px;
+}
+
+button{
+    margin-left: 600px;
+    width: 300px;
+    height: 50px;
+    font-size: medium;
+    color: #361374;
+    background-color: white;
+    border-radius: 20px;
+    border: 1px solid #361374;
+}
+button:hover{
+    background-color: #361374;
+    color: white;
+    
+}
+.quotation{
+    width: 100%;
+    height:200px;
+   
+    display: flex;
+    justify-content: center;
+}
+.quotation1{
+    width: 60%;
+    height: 100%;
+   text-align: center;
+   margin-top: 10px;
+    font-size: 19px;
+}
+.securetag{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+}
+.secure{
+    width: 88%;
+    height: 200%;
+    background-color: #967edd;
+    background-image: url(images/trust-banner-29acd6391200d69ad22567eb1a15a10b.png);
+    background-size: cover;
+    border-radius: 20px;
+    display: flex;
+}
+.secureimage{
+    width: 300px;
+    height: 250px;
+    margin-top: 30px;
+}
+.data{
+    width: 50%;
+    height: 100%;
+    
+}
+.data1{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+.data2{
+    color: white;
+}
+.new{
+    width: 100%;
+    height: 200px;
+    background-color: #f0e6ff;
+}
+.millionmain{
+    width: 100%;
+    height: 250px;
+    background-color: #f0e6ff;
+   
+}
+.million{
+    width: 20%;
+    height: 150px;
+    margin-left: 600px;
+
+}
+
+.million h1{
+    font-size: 35px;
+    color: #361968;
+    text-align: center;
+}
+.partner{
+    color: white;
+    background-color: #07c3de;
+    border: none;
+    margin-top: 20px;
+}
+.partner:hover{
+    background-color: aqua;
+}
+.icon{
+    width: 100%;
+    height: 300px;
+}
+.iconimage{
+    width: 100%;
+   height: 100%;
+}
+.overallsales{
+    width: 100%;
+    height: 800px;
+    display: flex;
+    
+}
+.overall{
+    width: 50%;
+    height: 80%;
+    background-image: url(images/overallbackground.png);
+}
+.overall img{
+    width: 80%;
+    height: 700px;
+    margin-top: 90px;
+}
+.business{
+    width: 50%;
+    height: 800px;
+    margin-left: 100px;
+}
+.business h2{
+    color: #361374;
+}
+.readings{
+    width: 100%;
+    height: 300px;
+    background-color: #f0e6ff;
+}
+.readings h1{
+    text-align: center;
+    padding-top: 150px;
+    font-size: 40px;
+    
+}
+.readings p{
+    text-align: center;
+}
+.datedetails{
+    width: 100%;
+    height: 400px;
+    background-color: #f0e6ff;
+    display: flex;
+    justify-content: space-evenly;
+}
+.businessline,.livemint,.economictimes{
+    width: 26%;
+    height:400px ;
+    background-color: white;
+    border-radius: 15px;
+   
+}
+.datedetails h4,.datedetails p{
+    padding-left: 25px;
+    padding-top: 10px;
+}
+.datedetails h2{
+    padding-left: 25px;
+    font-size: 22px;
+    font-weight: 10;
+}
+.seenews{
+    width: 100%;
+    height: 200px;
+    background-color: #f0e6ff;
+    padding-top: 70px;
+}
+.newsbutton{
+   color: white;
+   background-color: #07c3de;
+   border: none;
+}
+.newsbutton:hover{
+    background-color: aqua
+  
+}
+.city{
+    width: 100%;
+    height: 440px;
+    background-image: url(images/city.png);
+    background-size: cover;
+}
+.main{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+}
+.main1,.main2,.main3{
+    width: 26%;
+    height: 150px;
+    color: white;
+    padding-top: 50px;
+    padding-left: 140px;
+   
+}
+.main h1{
+    color: white;
+    padding: 0%;
+    font-size: 40px;
+}
+.main h3{
+    font-size: 20px;
+}
+.template{
+    width: 100%;
+    height: 100px;
+    
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.data{
+    height: 100%;
+    width: 45%;
+   
+}
+.data h1{
+    font-size: 25px;
+    color: white;
+}
+.explore{
+    height: 100%;
+    width:25%;
+   
+    padding-top: 20px;
+}
+.explorekey{
+    margin: 0%;
+    width: 200px;
+    color: white;
+    background-color: #7962be;
+    border: 1px solid #00e6e6;
+   
+   
+}
+.explorekey:hover{
+    background-color: #7962be
+}
+footer{
+    width: 100%;
+    height: 320px;
+    display: flex;
+    justify-content: center;
+    
+}
+.logo,.General,.Connect,.Legal,.Certification,.seeallapps{
+    width: 15%;
+    height: 320px;
+    
+}
+.logo img{
+    margin-top: 70px;
+}
+.General li, .Connect li,.Legal li{
+    list-style-type: none;
+    padding: 12px;
+}
+footer h4{
+    margin-top: 80px;
+    margin-left: 15px;
+}
+.Certification img{
+    margin-top: 40px;
+    width: 150px;
+    
+}
+.seeapps,.seeappsbutton,.seeappslogo{
+    width: 100%;
+    height: 33.33%;
+  
+   
+}
+.seeappslogo{
+    display: flex;
+    width: 100%;
+}
+.seeappsbutton{
+    padding-top: 25px;
+}
+.seeappsbutton button{
+    margin: 0;
+    width: 180px;
+    border: 1px solid black;
+    color: black;
+}
+.seeappsbutton button:hover{
+    background-color: white;
+}
+.inlogo,.twitterlogo,.facebooklogo{
+    width: 33.33%;
+    height: 33.33%;
+}
+.seeallapps
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
